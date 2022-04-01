@@ -4,7 +4,7 @@ Software Engineer III
 
 ha.thuchung96@gmail.com
 +84977670705
-linkedin.com/in/hathuchung96
+https://www.linkedin.com/in/hathuchung96/
 Ho Chi Minh
 
 Education
@@ -102,11 +102,11 @@ Build Addon Snort with ANN to detect DDos Attack
 Find me online
 ======
 GitHub
-github.com/hathuchung96
+https://github.com/hathuchung96
 
 Facebook
-facebook.com/hathuchung96
+https://www.facebook.com/hathuchung96
 
 LinkedIn
-linkedin.com/in/hathuchung96
+https://www.linkedin.com/in/hathuchung96/
 
