@@ -3,7 +3,7 @@ HA THUC HUNG
 Software Engineer III
 
 ha.thuchung96@gmail.com
-+84977670705
++
 https://www.linkedin.com/in/hathuchung96/
 Ho Chi Minh
 
