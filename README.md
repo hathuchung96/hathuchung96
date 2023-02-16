@@ -25,14 +25,8 @@ Samsung Ho Chi Minh City Research & Development Center
 
 IT Programs Delivery
 DHL Express VietNam
-06/2019 - 10/2019
+04/2018 - 10/2019
  - Application programming used for internal staff.
-
-.Net Developer
-MatBao Company
-04/2018 - 11/2018
- - Data management support tool for companies on Facebook social networking applications.
- - Manage KOL management system and retrieve data from socialnetworking sites.
 
 Freelancer
 04/2017 - 10/2019
