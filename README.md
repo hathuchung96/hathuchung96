@@ -16,9 +16,15 @@ FPT University
 
 Experience
 ======
+Software Developer
+Asia Commercial Bank (ACB Bank)
+9/2022 - ongoing
+Ho Chi Minh
+- Develops and maintains a lending application for internal employee support from the customer (personal or business) to the bank.
+
 Graphic R&D Engineer III
 Samsung Electronics HCMC CE Complex
-10/2019 - Ongoing
+10/2019 - 9/2022
 Ho Chi Minh
 Samsung Ho Chi Minh City Research & Development Center
  - Develop and optimize graphics software.
