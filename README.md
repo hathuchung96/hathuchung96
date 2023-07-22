@@ -16,31 +16,31 @@ FPT University
 
 Experience
 ======
-Software Developer
-Asia Commercial Bank (ACB Bank)
-9/2022 - ongoing
+Software Developer /
+Asia Commercial Bank (ACB Bank) /
+9/2022 - ongoing /
 Ho Chi Minh
 - Develops and maintains a lending application for internal employee support from the customer (personal or business) to the bank.
 
-Graphic R&D Engineer III
-Samsung Electronics HCMC CE Complex
-10/2019 - 9/2022
+Graphic R&D Engineer III /
+Samsung Electronics HCMC CE Complex /
+10/2019 - 9/2022 /
 Ho Chi Minh
-Samsung Ho Chi Minh City Research & Development Center
- - Develop and optimize graphics software.
+- Samsung Ho Chi Minh City Research & Development Center /
+ Develop and optimize graphics software.
 
-IT Programs Delivery
-DHL Express VietNam
-04/2018 - 10/2019
+IT Programs Delivery /
+DHL Express VietNam /
+04/2018 - 10/2019 
  - Application programming used for internal staff.
 
-Freelancer
+Freelancer /
 04/2017 - 10/2019
  - Programming tools related to social networks through API communication.
  - Design and make websites for some small businesses.
 
-Inter C Programer
-NetVision Telecom
+Inter C Programer /
+NetVision Telecom /
 01/2017 - 03/2017
  - Communication tool programming to manage the connection between client and server with C and python.
  - Manage connections and network protocols on Linux.
